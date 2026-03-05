@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "d1-template",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "d0af8093-fa0b-4606-83c3-ef8be05271d0",
+			"database_name": "Richbatahub1"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
